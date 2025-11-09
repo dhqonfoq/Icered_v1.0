@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode build outputs and caches
+DerivedData
+DerivedData/
+.DerivedData
+build/
+Build/
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# SwiftPM
+.swiftpm/
+.build/

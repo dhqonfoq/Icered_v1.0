@@ -1,0 +1,369 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 63;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0B2B8B88433DC09AEE6BBB07 /* Docs（设计:展示）/Message-icon.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CE9139F86C2B4F0E5718D0CB /* Docs（设计:展示）/Message-icon.pdf */; };
+		1CFB8108A8066F436AB8B5C2 /* Docs（设计:展示）/Newpost.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7BB0475A9E203A6B09DDAF03 /* Docs（设计:展示）/Newpost.pdf */; };
+		2726BD56CFA2175CBF481736 /* Docs（设计:展示）/Notice.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 00386182B960850DE75A57ED /* Docs（设计:展示）/Notice.pdf */; };
+		30224C28F2567823D880F882 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AF6A8B9CF024D3E80325CB0 /* Assets.xcassets */; };
+		30F09A25B9827A6F7137F308 /* Resources（图片:图标）/home-button.svg in Resources */ = {isa = PBXBuildFile; fileRef = 5C1256EB29EA1FF49E550367 /* Resources（图片:图标）/home-button.svg */; };
+		4E8542D03EDAD67EC19FB602 /* Docs（设计:展示）/alice.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 08C295CD8E58E641573CC2C7 /* Docs（设计:展示）/alice.pdf */; };
+		590E6182F97749C1610EA8DD /* Docs（设计:展示）/Back.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 60011E1D3DCF718E42B8BAE7 /* Docs（设计:展示）/Back.pdf */; };
+		5F79F38DA60FA6B42557CC18 /* Resources（图片:图标）/Message.svg in Resources */ = {isa = PBXBuildFile; fileRef = 5997A3094BCE1EE9ACC5D29B /* Resources（图片:图标）/Message.svg */; };
+		5FA9CDD1C380E5E18111C913 /* Docs（设计:展示）/Account.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 4247433D996BDE5E0AA54681 /* Docs（设计:展示）/Account.pdf */; };
+		635EFF95DC287EAE187B15ED /* Sources（swift文件）/ReportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236C499D50B541EEA26CCE7A /* Sources（swift文件）/ReportView.swift */; };
+		65B7E527D2E0AC55174EA228 /* Resources（图片:图标）/alice.svg in Resources */ = {isa = PBXBuildFile; fileRef = CC255CB7CD7C2E8C42E29682 /* Resources（图片:图标）/alice.svg */; };
+		7B26AF552F01A5B1E6C6D861 /* Sources（swift文件）/HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D005405D5F2B27066262F779 /* Sources（swift文件）/HomeView.swift */; };
+		A95186218C5E8609DAFA0E15 /* Sources（swift文件）/ThankYouView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FD21EE14C2F6BB263A5DC6 /* Sources（swift文件）/ThankYouView.swift */; };
+		B603764C680EE1B6EBCDF734 /* Resources（图片:图标）/Account.svg in Resources */ = {isa = PBXBuildFile; fileRef = C7236A0C16740DA28A1AB94B /* Resources（图片:图标）/Account.svg */; };
+		BE80C732F38368589A810958 /* Docs（设计:展示）/ICERED.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 01E387462CA2D6B1745E4AEE /* Docs（设计:展示）/ICERED.pdf */; };
+		DD69D48DCE410B11BBA74DA7 /* Resources（图片:图标）/home-icon-red.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DB3DFBC41C41FF1DB69E024 /* Resources（图片:图标）/home-icon-red.png */; };
+		E4BCF108C29E22B06F873463 /* Sources（swift文件）/App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B23D94FF9536EC3BCAFE26A /* Sources（swift文件）/App.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		00386182B960850DE75A57ED /* Docs（设计:展示）/Notice.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/Notice.pdf"; sourceTree = "<group>"; };
+		01E387462CA2D6B1745E4AEE /* Docs（设计:展示）/ICERED.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/ICERED.pdf"; sourceTree = "<group>"; };
+		08C295CD8E58E641573CC2C7 /* Docs（设计:展示）/alice.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/alice.pdf"; sourceTree = "<group>"; };
+		1D3041E7FCC0ACD7F53D08BA /* FigmaDesignApp.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = FigmaDesignApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		236C499D50B541EEA26CCE7A /* Sources（swift文件）/ReportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sources（swift文件）/ReportView.swift"; sourceTree = "<group>"; };
+		2B23D94FF9536EC3BCAFE26A /* Sources（swift文件）/App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sources（swift文件）/App.swift"; sourceTree = "<group>"; };
+		4247433D996BDE5E0AA54681 /* Docs（设计:展示）/Account.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/Account.pdf"; sourceTree = "<group>"; };
+		4AF6A8B9CF024D3E80325CB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4DB3DFBC41C41FF1DB69E024 /* Resources（图片:图标）/home-icon-red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Resources（图片:图标）/home-icon-red.png"; sourceTree = "<group>"; };
+		5997A3094BCE1EE9ACC5D29B /* Resources（图片:图标）/Message.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Resources（图片:图标）/Message.svg"; sourceTree = "<group>"; };
+		5C1256EB29EA1FF49E550367 /* Resources（图片:图标）/home-button.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Resources（图片:图标）/home-button.svg"; sourceTree = "<group>"; };
+		60011E1D3DCF718E42B8BAE7 /* Docs（设计:展示）/Back.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/Back.pdf"; sourceTree = "<group>"; };
+		7BB0475A9E203A6B09DDAF03 /* Docs（设计:展示）/Newpost.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/Newpost.pdf"; sourceTree = "<group>"; };
+		93FD21EE14C2F6BB263A5DC6 /* Sources（swift文件）/ThankYouView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sources（swift文件）/ThankYouView.swift"; sourceTree = "<group>"; };
+		ADEC7ED03C99D6700863FE58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		C7236A0C16740DA28A1AB94B /* Resources（图片:图标）/Account.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Resources（图片:图标）/Account.svg"; sourceTree = "<group>"; };
+		CC255CB7CD7C2E8C42E29682 /* Resources（图片:图标）/alice.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Resources（图片:图标）/alice.svg"; sourceTree = "<group>"; };
+		CE9139F86C2B4F0E5718D0CB /* Docs（设计:展示）/Message-icon.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/Message-icon.pdf"; sourceTree = "<group>"; };
+		D005405D5F2B27066262F779 /* Sources（swift文件）/HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sources（swift文件）/HomeView.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		7C3FDB1C3B7BCF5AF8E3D483 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D3041E7FCC0ACD7F53D08BA /* FigmaDesignApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A4D9DE00AA821932BE8D62A2 = {
+			isa = PBXGroup;
+			children = (
+				C797F11243C390625FB1DDB5 /* . */,
+				7C3FDB1C3B7BCF5AF8E3D483 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C797F11243C390625FB1DDB5 /* . */ = {
+			isa = PBXGroup;
+			children = (
+				4247433D996BDE5E0AA54681 /* Docs（设计:展示）/Account.pdf */,
+				C7236A0C16740DA28A1AB94B /* Resources（图片:图标）/Account.svg */,
+				08C295CD8E58E641573CC2C7 /* Docs（设计:展示）/alice.pdf */,
+				CC255CB7CD7C2E8C42E29682 /* Resources（图片:图标）/alice.svg */,
+				2B23D94FF9536EC3BCAFE26A /* Sources（swift文件）/App.swift */,
+				4AF6A8B9CF024D3E80325CB0 /* Assets.xcassets */,
+				60011E1D3DCF718E42B8BAE7 /* Docs（设计:展示）/Back.pdf */,
+				5C1256EB29EA1FF49E550367 /* Resources（图片:图标）/home-button.svg */,
+				4DB3DFBC41C41FF1DB69E024 /* Resources（图片:图标）/home-icon-red.png */,
+				01E387462CA2D6B1745E4AEE /* Docs（设计:展示）/ICERED.pdf */,
+				ADEC7ED03C99D6700863FE58 /* Info.plist */,
+				CE9139F86C2B4F0E5718D0CB /* Docs（设计:展示）/Message-icon.pdf */,
+				5997A3094BCE1EE9ACC5D29B /* Resources（图片:图标）/Message.svg */,
+				7BB0475A9E203A6B09DDAF03 /* Docs（设计:展示）/Newpost.pdf */,
+				00386182B960850DE75A57ED /* Docs（设计:展示）/Notice.pdf */,
+				D005405D5F2B27066262F779 /* Sources（swift文件）/HomeView.swift */,
+				236C499D50B541EEA26CCE7A /* Sources（swift文件）/ReportView.swift */,
+				93FD21EE14C2F6BB263A5DC6 /* Sources（swift文件）/ThankYouView.swift */,
+			);
+			path = .;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ACADFBFE15FADF5A1AF04334 /* FigmaDesignApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F5808A3E8D4D395DBE49C1D7 /* Build configuration list for PBXNativeTarget "FigmaDesignApp" */;
+			buildPhases = (
+				2EB212114C3B8FD6E081C091 /* Sources */,
+				8A56806E3EC1BE8ADF9A9794 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FigmaDesignApp;
+			packageProductDependencies = (
+			);
+			productName = FigmaDesignApp;
+			productReference = 1D3041E7FCC0ACD7F53D08BA /* FigmaDesignApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5E408F8D0DDC235DCAE790E7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					ACADFBFE15FADF5A1AF04334 = {
+						ProvisioningStyle = Manual;
+					};
+				};
+			};
+			buildConfigurationList = 343BDCEDB1F7374356305207 /* Build configuration list for PBXProject "FigmaDesignApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				Base,
+				en,
+			);
+			mainGroup = A4D9DE00AA821932BE8D62A2;
+			minimizedProjectReferenceProxies = 1;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ACADFBFE15FADF5A1AF04334 /* FigmaDesignApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8A56806E3EC1BE8ADF9A9794 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5FA9CDD1C380E5E18111C913 /* Docs（设计:展示）/Account.pdf in Resources */,
+				B603764C680EE1B6EBCDF734 /* Resources（图片:图标）/Account.svg in Resources */,
+				30224C28F2567823D880F882 /* Assets.xcassets in Resources */,
+				590E6182F97749C1610EA8DD /* Docs（设计:展示）/Back.pdf in Resources */,
+				BE80C732F38368589A810958 /* Docs（设计:展示）/ICERED.pdf in Resources */,
+				0B2B8B88433DC09AEE6BBB07 /* Docs（设计:展示）/Message-icon.pdf in Resources */,
+				5F79F38DA60FA6B42557CC18 /* Resources（图片:图标）/Message.svg in Resources */,
+				1CFB8108A8066F436AB8B5C2 /* Docs（设计:展示）/Newpost.pdf in Resources */,
+				2726BD56CFA2175CBF481736 /* Docs（设计:展示）/Notice.pdf in Resources */,
+				4E8542D03EDAD67EC19FB602 /* Docs（设计:展示）/alice.pdf in Resources */,
+				65B7E527D2E0AC55174EA228 /* Resources（图片:图标）/alice.svg in Resources */,
+				30F09A25B9827A6F7137F308 /* Resources（图片:图标）/home-button.svg in Resources */,
+				DD69D48DCE410B11BBA74DA7 /* Resources（图片:图标）/home-icon-red.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2EB212114C3B8FD6E081C091 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4BCF108C29E22B06F873463 /* Sources（swift文件）/App.swift in Sources */,
+				7B26AF552F01A5B1E6C6D861 /* Sources（swift文件）/HomeView.swift in Sources */,
+				635EFF95DC287EAE187B15ED /* Sources（swift文件）/ReportView.swift in Sources */,
+				A95186218C5E8609DAFA0E15 /* Sources（swift文件）/ThankYouView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		447C4692A7535B7D745B4C8A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_STYLE = Manual;
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.bruce.figmadesignapp;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		745621F622BA4F1283F1268F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_STYLE = Manual;
+				INFOPLIST_FILE = Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.bruce.figmadesignapp;
+				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos;
+				SWIFT_VERSION = 5.9;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		915DCC20492ADAF2DAD48195 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		F31A58D129DFDFC4A85E6C4D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"$(inherited)",
+					"DEBUG=1",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MARKETING_VERSION = 1.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		343BDCEDB1F7374356305207 /* Build configuration list for PBXProject "FigmaDesignApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F31A58D129DFDFC4A85E6C4D /* Debug */,
+				915DCC20492ADAF2DAD48195 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		F5808A3E8D4D395DBE49C1D7 /* Build configuration list for PBXNativeTarget "FigmaDesignApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				745621F622BA4F1283F1268F /* Debug */,
+				447C4692A7535B7D745B4C8A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5E408F8D0DDC235DCAE790E7 /* Project object */;
+}

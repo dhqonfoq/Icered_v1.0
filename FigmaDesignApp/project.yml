@@ -1,0 +1,41 @@
+name: FigmaDesignApp
+options:
+  bundleIdPrefix: com.bruce
+  developmentLanguage: en
+
+settings:
+  MARKETING_VERSION: 1.0
+  CURRENT_PROJECT_VERSION: 1
+
+targets:
+  FigmaDesignApp:
+    type: application
+    platform: iOS
+    deploymentTarget: "18.0"
+    sources:
+      - path: "Sources（swift文件）"
+    resources:
+      - path: "Resources（图片:图标）"
+      - path: Assets.xcassets
+    settings:
+      PRODUCT_BUNDLE_IDENTIFIER: com.bruce.figmadesignapp
+      CODE_SIGN_STYLE: Manual
+      CODE_SIGN_IDENTITY: ""
+      PROVISIONING_PROFILE: ""
+      INFOPLIST_FILE: Info.plist
+      ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+      IPHONEOS_DEPLOYMENT_TARGET: "18.0"
+      TARGETED_DEVICE_FAMILY: "1"
+      SWIFT_VERSION: "5.9"
+
+schemes:
+  FigmaDesignApp:
+    build:
+      targets:
+        FigmaDesignApp: all
+    run:
+      config: Debug
+    test:
+      config: Debug
+    archive:
+      config: Release
