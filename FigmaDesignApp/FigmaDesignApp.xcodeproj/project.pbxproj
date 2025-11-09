@@ -16,14 +16,16 @@
 		590E6182F97749C1610EA8DD /* Docs（设计:展示）/Back.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 60011E1D3DCF718E42B8BAE7 /* Docs（设计:展示）/Back.pdf */; };
 		5F79F38DA60FA6B42557CC18 /* Resources（图片:图标）/Message.svg in Resources */ = {isa = PBXBuildFile; fileRef = 5997A3094BCE1EE9ACC5D29B /* Resources（图片:图标）/Message.svg */; };
 		5FA9CDD1C380E5E18111C913 /* Docs（设计:展示）/Account.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 4247433D996BDE5E0AA54681 /* Docs（设计:展示）/Account.pdf */; };
-		635EFF95DC287EAE187B15ED /* Sources（swift文件）/ReportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236C499D50B541EEA26CCE7A /* Sources（swift文件）/ReportView.swift */; };
+		635EFF95DC287EAE187B15ED /* ReportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 236C499D50B541EEA26CCE7A /* ReportView.swift */; };
 		65B7E527D2E0AC55174EA228 /* Resources（图片:图标）/alice.svg in Resources */ = {isa = PBXBuildFile; fileRef = CC255CB7CD7C2E8C42E29682 /* Resources（图片:图标）/alice.svg */; };
-		7B26AF552F01A5B1E6C6D861 /* Sources（swift文件）/HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D005405D5F2B27066262F779 /* Sources（swift文件）/HomeView.swift */; };
-		A95186218C5E8609DAFA0E15 /* Sources（swift文件）/ThankYouView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FD21EE14C2F6BB263A5DC6 /* Sources（swift文件）/ThankYouView.swift */; };
+		7B26AF552F01A5B1E6C6D861 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D005405D5F2B27066262F779 /* HomeView.swift */; };
+		A95186218C5E8609DAFA0E15 /* ThankYouView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93FD21EE14C2F6BB263A5DC6 /* ThankYouView.swift */; };
 		B603764C680EE1B6EBCDF734 /* Resources（图片:图标）/Account.svg in Resources */ = {isa = PBXBuildFile; fileRef = C7236A0C16740DA28A1AB94B /* Resources（图片:图标）/Account.svg */; };
 		BE80C732F38368589A810958 /* Docs（设计:展示）/ICERED.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 01E387462CA2D6B1745E4AEE /* Docs（设计:展示）/ICERED.pdf */; };
 		DD69D48DCE410B11BBA74DA7 /* Resources（图片:图标）/home-icon-red.png in Resources */ = {isa = PBXBuildFile; fileRef = 4DB3DFBC41C41FF1DB69E024 /* Resources（图片:图标）/home-icon-red.png */; };
-		E4BCF108C29E22B06F873463 /* Sources（swift文件）/App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B23D94FF9536EC3BCAFE26A /* Sources（swift文件）/App.swift */; };
+		E4BCF108C29E22B06F873463 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2B23D94FF9536EC3BCAFE26A /* App.swift */; };
+		F1A2B3C4D5E6F7A8B9C0D1E2 /* CarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1B2C3D4E5F6A7B8C9D0E1F2 /* CarouselView.swift */; };
+		F2B3C4D5E6F7A8B9C0D1E2F3 /* SimpleCarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2B3C4D5E6F7A8B9C0D1E2F3 /* SimpleCarouselView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,8 +33,8 @@
 		01E387462CA2D6B1745E4AEE /* Docs（设计:展示）/ICERED.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/ICERED.pdf"; sourceTree = "<group>"; };
 		08C295CD8E58E641573CC2C7 /* Docs（设计:展示）/alice.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/alice.pdf"; sourceTree = "<group>"; };
 		1D3041E7FCC0ACD7F53D08BA /* FigmaDesignApp.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = FigmaDesignApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		236C499D50B541EEA26CCE7A /* Sources（swift文件）/ReportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sources（swift文件）/ReportView.swift"; sourceTree = "<group>"; };
-		2B23D94FF9536EC3BCAFE26A /* Sources（swift文件）/App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sources（swift文件）/App.swift"; sourceTree = "<group>"; };
+		236C499D50B541EEA26CCE7A /* ReportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ReportView.swift"; sourceTree = "<group>"; };
+		2B23D94FF9536EC3BCAFE26A /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "App.swift"; sourceTree = "<group>"; };
 		4247433D996BDE5E0AA54681 /* Docs（设计:展示）/Account.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/Account.pdf"; sourceTree = "<group>"; };
 		4AF6A8B9CF024D3E80325CB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DB3DFBC41C41FF1DB69E024 /* Resources（图片:图标）/home-icon-red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Resources（图片:图标）/home-icon-red.png"; sourceTree = "<group>"; };
@@ -40,12 +42,14 @@
 		5C1256EB29EA1FF49E550367 /* Resources（图片:图标）/home-button.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Resources（图片:图标）/home-button.svg"; sourceTree = "<group>"; };
 		60011E1D3DCF718E42B8BAE7 /* Docs（设计:展示）/Back.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/Back.pdf"; sourceTree = "<group>"; };
 		7BB0475A9E203A6B09DDAF03 /* Docs（设计:展示）/Newpost.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/Newpost.pdf"; sourceTree = "<group>"; };
-		93FD21EE14C2F6BB263A5DC6 /* Sources（swift文件）/ThankYouView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sources（swift文件）/ThankYouView.swift"; sourceTree = "<group>"; };
+		93FD21EE14C2F6BB263A5DC6 /* ThankYouView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ThankYouView.swift"; sourceTree = "<group>"; };
 		ADEC7ED03C99D6700863FE58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		C7236A0C16740DA28A1AB94B /* Resources（图片:图标）/Account.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Resources（图片:图标）/Account.svg"; sourceTree = "<group>"; };
 		CC255CB7CD7C2E8C42E29682 /* Resources（图片:图标）/alice.svg */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Resources（图片:图标）/alice.svg"; sourceTree = "<group>"; };
 		CE9139F86C2B4F0E5718D0CB /* Docs（设计:展示）/Message-icon.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Docs（设计:展示）/Message-icon.pdf"; sourceTree = "<group>"; };
-		D005405D5F2B27066262F779 /* Sources（swift文件）/HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sources（swift文件）/HomeView.swift"; sourceTree = "<group>"; };
+		D005405D5F2B27066262F779 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HomeView.swift"; sourceTree = "<group>"; };
+		A1B2C3D4E5F6A7B8C9D0E1F2 /* CarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CarouselView.swift"; sourceTree = "<group>"; };
+		A2B3C4D5E6F7A8B9C0D1E2F3 /* SimpleCarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SimpleCarouselView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -72,7 +76,7 @@
 				C7236A0C16740DA28A1AB94B /* Resources（图片:图标）/Account.svg */,
 				08C295CD8E58E641573CC2C7 /* Docs（设计:展示）/alice.pdf */,
 				CC255CB7CD7C2E8C42E29682 /* Resources（图片:图标）/alice.svg */,
-				2B23D94FF9536EC3BCAFE26A /* Sources（swift文件）/App.swift */,
+				2B23D94FF9536EC3BCAFE26A /* App.swift */,
 				4AF6A8B9CF024D3E80325CB0 /* Assets.xcassets */,
 				60011E1D3DCF718E42B8BAE7 /* Docs（设计:展示）/Back.pdf */,
 				5C1256EB29EA1FF49E550367 /* Resources（图片:图标）/home-button.svg */,
@@ -83,13 +87,32 @@
 				5997A3094BCE1EE9ACC5D29B /* Resources（图片:图标）/Message.svg */,
 				7BB0475A9E203A6B09DDAF03 /* Docs（设计:展示）/Newpost.pdf */,
 				00386182B960850DE75A57ED /* Docs（设计:展示）/Notice.pdf */,
-				D005405D5F2B27066262F779 /* Sources（swift文件）/HomeView.swift */,
-				236C499D50B541EEA26CCE7A /* Sources（swift文件）/ReportView.swift */,
-				93FD21EE14C2F6BB263A5DC6 /* Sources（swift文件）/ThankYouView.swift */,
+				B5C3D4E5F6A7B8C9D0E1F2A3 /* Views */,
+				C6D4E5F6A7B8C9D0E1F2A3B4 /* Components */,
 			);
 			path = .;
 			sourceTree = "<group>";
 		};
+	B5C3D4E5F6A7B8C9D0E1F2A3 /* Views */ = {
+		isa = PBXGroup;
+		children = (
+			D005405D5F2B27066262F779 /* HomeView.swift */,
+			236C499D50B541EEA26CCE7A /* ReportView.swift */,
+			93FD21EE14C2F6BB263A5DC6 /* ThankYouView.swift */,
+		);
+		name = Views;
+		sourceTree = "<group>";
+	};
+	C6D4E5F6A7B8C9D0E1F2A3B4 /* Components */ = {
+		isa = PBXGroup;
+		children = (
+			A1B2C3D4E5F6A7B8C9D0E1F2 /* CarouselView.swift */,
+			A2B3C4D5E6F7A8B9C0D1E2F3 /* SimpleCarouselView.swift */,
+		);
+		name = Components;
+		sourceTree = "<group>";
+	};
+
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -171,10 +194,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4BCF108C29E22B06F873463 /* Sources（swift文件）/App.swift in Sources */,
-				7B26AF552F01A5B1E6C6D861 /* Sources（swift文件）/HomeView.swift in Sources */,
-				635EFF95DC287EAE187B15ED /* Sources（swift文件）/ReportView.swift in Sources */,
-				A95186218C5E8609DAFA0E15 /* Sources（swift文件）/ThankYouView.swift in Sources */,
+				E4BCF108C29E22B06F873463 /* App.swift in Sources */,
+				F1A2B3C4D5E6F7A8B9C0D1E2 /* CarouselView.swift in Sources */,
+				7B26AF552F01A5B1E6C6D861 /* HomeView.swift in Sources */,
+				635EFF95DC287EAE187B15ED /* ReportView.swift in Sources */,
+				F2B3C4D5E6F7A8B9C0D1E2F3 /* SimpleCarouselView.swift in Sources */,
+				A95186218C5E8609DAFA0E15 /* ThankYouView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
